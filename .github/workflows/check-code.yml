@@ -7,7 +7,7 @@ on:
       - main
 
 # What jobs to do
-  jobs:
+jobs:
     test:
       name: Check code
       runs-on: ubuntu-latest
